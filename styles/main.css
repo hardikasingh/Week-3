@@ -1,0 +1,18 @@
+div {
+    background-color:beige;
+    padding: 10px;
+}
+div p {
+    font-weight: 200;
+    background-color: cornflowerblue;
+}
+p {
+    background-color:hotpink;
+}
+
+span {
+    background-color:aqua;
+}
+div {
+    font-weight:800;
+}
