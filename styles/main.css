@@ -1,6 +1,10 @@
+body{
+    padding:0;
+}
 div {
     background-color:beige;
     padding: 10px;
+    width:50%;
 }
 div p {
     font-weight: 200;
